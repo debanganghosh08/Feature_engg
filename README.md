@@ -1,4 +1,4 @@
-# 🚀 Mastering Decision Tree Classification: Titanic Survival Prediction Using AI & Data Science! 🌳📊**  
+# 🚀 Mastering Decision Tree Classification: Titanic Survival Prediction Using AI & Data Science! 🌳📊
 
 Ever wondered how machine learning can **predict survival**? In this project, I built a **Decision Tree Classifier** on the **Titanic Dataset** to analyze key survival factors! 🏆  
 
